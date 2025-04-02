@@ -1,7 +1,18 @@
+using Ecomerce.Repositorios;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// INJEÇÃO DE DEPENDENCIA
+// Colocando os intens da pasta Respositorio como dependencia
+
+builder.Services.AddScoped<UsuarioRepositorio>();
+builder.Services.AddScoped<ClienteRepositorio>();
+
+
+
 
 var app = builder.Build();
 
