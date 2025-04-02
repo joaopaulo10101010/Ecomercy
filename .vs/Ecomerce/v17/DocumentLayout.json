@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\2bmod\\Desktop\\projeto0204\\Ecomerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18D0BE37-D575-46DA-93BD-DD262F6F3F2C}|Ecomerce\\Ecomerce.csproj|c:\\users\\2bmod\\desktop\\projeto0204\\ecomerce\\ecomerce\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D0BE37-D575-46DA-93BD-DD262F6F3F2C}|Ecomerce\\Ecomerce.csproj|solutionrelative:ecomerce\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D0BE37-D575-46DA-93BD-DD262F6F3F2C}|Ecomerce\\Ecomerce.csproj|c:\\users\\2bmod\\desktop\\projeto0204\\ecomerce\\ecomerce\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D0BE37-D575-46DA-93BD-DD262F6F3F2C}|Ecomerce\\Ecomerce.csproj|solutionrelative:ecomerce\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D0BE37-D575-46DA-93BD-DD262F6F3F2C}|Ecomerce\\Ecomerce.csproj|c:\\users\\2bmod\\desktop\\projeto0204\\ecomerce\\ecomerce\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D0BE37-D575-46DA-93BD-DD262F6F3F2C}|Ecomerce\\Ecomerce.csproj|solutionrelative:ecomerce\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{18D0BE37-D575-46DA-93BD-DD262F6F3F2C}|Ecomerce\\Ecomerce.csproj|c:\\users\\2bmod\\desktop\\projeto0204\\ecomerce\\ecomerce\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18D0BE37-D575-46DA-93BD-DD262F6F3F2C}|Ecomerce\\Ecomerce.csproj|solutionrelative:ecomerce\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18D0BE37-D575-46DA-93BD-DD262F6F3F2C}|Ecomerce\\Ecomerce.csproj|c:\\users\\2bmod\\desktop\\projeto0204\\ecomerce\\ecomerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18D0BE37-D575-46DA-93BD-DD262F6F3F2C}|Ecomerce\\Ecomerce.csproj|solutionrelative:ecomerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,53 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\projeto0204\\Ecomerce\\Ecomerce\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "Ecomerce\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\2bmod\\Desktop\\projeto0204\\Ecomerce\\Ecomerce\\Models\\Cliente.cs",
-              "RelativeToolTip": "Ecomerce\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T23:23:14.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\projeto0204\\Ecomerce\\Ecomerce\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Ecomerce\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\2bmod\\Desktop\\projeto0204\\Ecomerce\\Ecomerce\\Models\\Usuario.cs",
-              "RelativeToolTip": "Ecomerce\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T23:22:58.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\projeto0204\\Ecomerce\\Ecomerce\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "Ecomerce\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\2bmod\\Desktop\\projeto0204\\Ecomerce\\Ecomerce\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "Ecomerce\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T23:18:02.567Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\projeto0204\\Ecomerce\\Ecomerce\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Ecomerce\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\2bmod\\Desktop\\projeto0204\\Ecomerce\\Ecomerce\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Ecomerce\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T23:17:26.776Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2bmod\\Desktop\\projeto0204\\Ecomerce\\Ecomerce\\appsettings.json",
+              "RelativeDocumentMoniker": "Ecomerce\\appsettings.json",
+              "ToolTip": "C:\\Users\\2bmod\\Desktop\\projeto0204\\Ecomerce\\Ecomerce\\appsettings.json",
+              "RelativeToolTip": "Ecomerce\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T23:39:01.506Z",
               "EditorCaption": ""
             }
           ]
